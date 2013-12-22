@@ -17,3 +17,11 @@ Image editing
 
     python imaging.py
 (requires python 2.* and PIL)
+
+
+####Screenshot:####
+<p align="center">
+  <img src="https://github.com/AlexPnt/Image-Editing/raw/master/screens/png/imaging.png"/>
+</p>
+
+Cheers!
